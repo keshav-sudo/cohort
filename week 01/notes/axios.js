@@ -7,3 +7,5 @@ axios.get(`https://randomuser.me/api`)
     .catch(error => {
         console.log('error', error);
     });
+
+    //new done haii

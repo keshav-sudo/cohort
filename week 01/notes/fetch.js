@@ -7,3 +7,5 @@ fetch('https://randomuser.me/api').then(response => {
     .catch(error => {
         console.log('error', error);
     });
+
+    //sb sahiii hh yha bhi
